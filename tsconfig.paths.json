@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./src",
+		"paths": {
+			"@redux/*": ["redux/*"],
+			"@helpers/*": ["scripts/helpers/*"],
+			"@api/*": ["scripts/api/*"],
+			"@controls/*": ["components/controls/*"],
+			"@pages/*": ["components/page/*"],
+			"@img/*": ["img/*"],
+			"@config/*": ["scripts/config/*"],
+			"@interfaces/*": ["scripts/interfaces/*"],
+			"@intertal_types/*": ["scripts/types/*"]
+		}
+	}
+}
